@@ -26,7 +26,7 @@ git clone https://github.com/Rizky-SR/dicoding-analisis-data-dengan-python.git
 ```
 2. Go to the project directory
 ```
-cd Analisis-Data-dengan-Python
+cd dicoding-analisis-data-dengan-python
 ```
 3. Install the required Python packages by running:
 ```
